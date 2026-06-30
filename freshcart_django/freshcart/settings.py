@@ -13,8 +13,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "127.0.0.1",
-    "localhost"
-    "freshcart-django-1.onrender.com"
+    "localhost",
+    "freshcart-django-1.onrender.com",
     ]
 
 INSTALLED_APPS = [
